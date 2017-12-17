@@ -1,0 +1,3 @@
+Jaka jest podstawowa ró¿nica pomiêdzy SCRUM a Kanban?
+Kanban - spis wydoczny, brak sprintów
+Scrum - podzia³ na sprinty.
