@@ -1,0 +1,3 @@
+Jaka jest ró¿nica miêdzy
+wymaganiami funkcjonalnymi i niefunkcjonalnymi?
+Odp: funkcjonalne to jest jak dzia³a, a niefunkcjonalne to jest jakoœciowe.
